@@ -1,0 +1,10 @@
+{
+    "image": "Image",
+    "name": "Name",
+    "description": "Description",
+    "height": "Height",
+    "weight": "Weight",
+    "type": "Type",
+    "chartTitle": "Pokémon Height",
+    "wanted": "Most wanted Pokémons"
+}
